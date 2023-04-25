@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#mylist{
+    text-decoration: none;
+    color: beige;
+}
+
+#myname :hover{
+    color: blue;
+    
+}
